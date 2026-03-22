@@ -1,0 +1,84 @@
+{
+  "characters": {
+    "Rouxls Kaard": "รูลส์ คาร์ด",
+    "Noelle": "โนเอล",
+    "Berdly": "เบิร์ดลี่",
+    "C. Round": "ซี. ราวด์",
+    "K. Round": "เค. ราวด์",
+    "Rudinn": "รูดิน",
+    "Darkner": "ดาร์คเนอร์",
+    "Lightner": "ลายต์เนอร์",
+    "Malius": "มาลิอุส",
+    "Hatty": "แฮตตี้",
+    "Hathy": "แฮตตี้",
+
+    "Kris": "คริส",
+    "Ralsei": "รัลเซย์",
+    "Susie": "ซูซี่",
+    "Lancer": "แลนเซอร์",
+    "Jevil": "เจวิล",
+    "Spamton": "สแปมตัน",
+    "Queen": "ควีน",
+    "Seam": "ซีม",
+    "Anya": "อันยา"
+  },
+
+  "battle_ui": {
+    "FIGHT": "ต่อสู้",
+    "ACT": "กระทำ",
+    "ITEM": "ไอเทม",
+    "MERCY": "ปรานี",
+    "SPARE": "ไว้ชีวิต",
+    "DEFEND": "ป้องกัน",
+    "Tension": "ความตึงเครียด",
+    "TP": "ทีพี",
+    "HP": "เลือด",
+    "GOLD": "ทอง",
+    "EXP": "แต้มประสบการณ์",
+    "LV": "เลเวล"
+  },
+
+  "locations": {
+    "Field of Hopes and Dreams": "ทุ่งแห่งความหวังและความฝัน",
+    "Scarlet Forest": "ป่าสีชาด",
+    "Great Board": "กระดานยักษ์",
+    "Card Castle": "ปราสาทไพ่",
+    "Dark World": "โลกมืด",
+    "Light World": "โลกสว่าง",
+    "Cyber World": "โลกไซเบอร์",
+    "Queen's Mansion": "คฤหาสน์ควีน"
+  },
+
+  "common_dialog": {
+    "* ": "* ",
+    "...": "...",
+    "Greetings": "สวัสดี",
+    "SOUL": "วิญญาณ",
+    "Dark Fountain": "น้ำพุแห่งความมืด",
+    "Lightner": "ลายต์เนอร์",
+    "Darkner": "ดาร์คเนอร์",
+    "Lightners": "ลายต์เนอร์",
+    "Darkners": "ดาร์คเนอร์",
+    "chapter": "บท",
+    "Cookie": "คุกกี้",
+    "Choco Diamond": "ช็อกโกไดมอนด์",
+    "Lancer Cookie": "คุกกี้แลนเซอร์",
+    "Hearts Donut": "โดนัทรูปหัวใจ",
+    "Rudinn Relief Funds": "กองทุนช่วยเหลือรูดิน",
+    "gentleclowns": "สุภาพบุรุษตัวตลก"
+  },
+
+  "ocr_fixes": {
+    "guess 's": "I guess. It's",
+    "Chocm": "Choco",
+    "chocm": "choco",
+    "Hathu": "Hathy",
+    "Hatthy": "Hathy",
+    "Malius": "Malius",
+    "gentleclowns": "gentleclowns",
+    "Lancer Cookie": "Lancer Cookie",
+    "Rudinn": "Rudinn",
+    "Hearts Donut": "Hearts Donut",
+    "Hathy' $": "Hathy's"
+  }
+}
